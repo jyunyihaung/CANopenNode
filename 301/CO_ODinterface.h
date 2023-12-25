@@ -26,7 +26,7 @@
 #ifndef CO_OD_INTERFACE_H
 #define CO_OD_INTERFACE_H
 
-#include "301/CO_driver.h"
+#include "../301/CO_driver.h"
 
 #ifdef __cplusplus
 extern "C" {

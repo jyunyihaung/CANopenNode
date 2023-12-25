@@ -26,9 +26,9 @@
 #ifndef CO_PDO_H
 #define CO_PDO_H
 
-#include "301/CO_ODinterface.h"
-#include "301/CO_Emergency.h"
-#include "301/CO_SYNC.h"
+#include "../301/CO_ODinterface.h"
+#include "../301/CO_Emergency.h"
+#include "../301/CO_SYNC.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_PDO

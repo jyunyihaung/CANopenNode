@@ -26,8 +26,8 @@
 #ifndef CO_LEDS_H
 #define CO_LEDS_H
 
-#include "301/CO_driver.h"
-#include "301/CO_NMT_Heartbeat.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_NMT_Heartbeat.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_LEDS

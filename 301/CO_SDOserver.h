@@ -26,8 +26,8 @@
 #ifndef CO_SDO_SERVER_H
 #define CO_SDO_SERVER_H
 
-#include "301/CO_driver.h"
-#include "301/CO_ODinterface.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_ODinterface.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_SDO_SRV

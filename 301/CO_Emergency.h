@@ -26,8 +26,8 @@
 #ifndef CO_EMERGENCY_H
 #define CO_EMERGENCY_H
 
-#include "301/CO_driver.h"
-#include "301/CO_ODinterface.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_ODinterface.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_EM

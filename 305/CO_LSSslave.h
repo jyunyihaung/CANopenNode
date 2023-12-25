@@ -28,7 +28,7 @@
 #ifndef CO_LSSslave_H
 #define CO_LSSslave_H
 
-#include "305/CO_LSS.h"
+#include "../305/CO_LSS.h"
 
 #if ((CO_CONFIG_LSS) & CO_CONFIG_LSS_SLAVE) || defined CO_DOXYGEN
 

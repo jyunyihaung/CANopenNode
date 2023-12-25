@@ -27,7 +27,7 @@
 #ifndef CO_LSSmaster_H
 #define CO_LSSmaster_H
 
-#include "305/CO_LSS.h"
+#include "../305/CO_LSS.h"
 
 #if ((CO_CONFIG_LSS) & CO_CONFIG_LSS_MASTER) || defined CO_DOXYGEN
 

@@ -27,7 +27,7 @@
 #ifndef CRC16_CCITT_H
 #define CRC16_CCITT_H
 
-#include "301/CO_driver.h"
+#include "../301/CO_driver.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_CRC16

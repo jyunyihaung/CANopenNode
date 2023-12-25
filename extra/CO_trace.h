@@ -26,8 +26,8 @@
 #ifndef CO_TRACE_H
 #define CO_TRACE_H
 
-#include "301/CO_driver.h"
-#include "301/CO_SDOserver.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_SDOserver.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_TRACE

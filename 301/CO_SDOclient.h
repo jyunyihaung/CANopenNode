@@ -27,10 +27,10 @@
 #ifndef CO_SDO_CLIENT_H
 #define CO_SDO_CLIENT_H
 
-#include "301/CO_driver.h"
-#include "301/CO_ODinterface.h"
-#include "301/CO_SDOserver.h"
-#include "301/CO_fifo.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_ODinterface.h"
+#include "../301/CO_SDOserver.h"
+#include "../301/CO_fifo.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_SDO_CLI

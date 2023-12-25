@@ -27,12 +27,12 @@
 #ifndef CO_GATEWAY_ASCII_H
 #define CO_GATEWAY_ASCII_H
 
-#include "301/CO_driver.h"
-#include "301/CO_fifo.h"
-#include "301/CO_SDOclient.h"
-#include "301/CO_NMT_Heartbeat.h"
-#include "305/CO_LSSmaster.h"
-#include "303/CO_LEDs.h"
+#include "../301/CO_driver.h"
+#include "../301/CO_fifo.h"
+#include "../301/CO_SDOclient.h"
+#include "../301/CO_NMT_Heartbeat.h"
+#include "../305/CO_LSSmaster.h"
+#include "../303/CO_LEDs.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_GTW
